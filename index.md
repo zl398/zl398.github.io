@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "😃🐶🏂🧉"
+title: "About M😃🐶🏂🧉E"
 ---
 I am a graduate student of SE.
 
